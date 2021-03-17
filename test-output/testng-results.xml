@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3700" started-at="2021-03-17T13:43:49 CDT" finished-at="2021-03-17T13:43:52 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3700" started-at="2021-03-17T13:43:49 CDT" finished-at="2021-03-17T13:43:52 CDT">
+      <class name="example.Hippa">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:example.Hippa@396f6598]" name="beforeClass" is-config="true" duration-ms="1606" started-at="2021-03-17T13:43:49 CDT" finished-at="2021-03-17T13:43:50 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="clickHippa()[pri:0, instance:example.Hippa@396f6598]" name="clickHippa" duration-ms="2072" started-at="2021-03-17T13:43:50 CDT" finished-at="2021-03-17T13:43:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHippa -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:example.Hippa@396f6598]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-03-17T13:43:52 CDT" finished-at="2021-03-17T13:43:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- example.Hippa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
