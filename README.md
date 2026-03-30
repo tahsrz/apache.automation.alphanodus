@@ -1,5 +1,5 @@
-Apache Automation (Alphanodus)
-A robust, Java-based automation framework designed to bridge the gap between manual and automated testing. This project leverages the Page Object Model (POM) design pattern to create highly maintainable, readable, and scalable test suites.
+apache.automation CODENAME:Alphanodus
+A robust, Java-based automation framework designed to bridge the gap between manual and automated testing. This project leverages the Page Object Model (POM) design pattern to create highly maintainable, readable, and scalable test suites. The previous use for this program is classified and now it is yours to scale.
 
 🚀 Overview
 The primary goal of this repository is to provide a clear, structured approach for transitioning manual test cases into an automated environment. By using POM, the framework decouples the test logic from the UI elements, making it resilient to frequent UI changes.
